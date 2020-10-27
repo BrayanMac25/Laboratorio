@@ -1,0 +1,3 @@
+  
+#! / bin / bash
+curl -v -H " d-apikey: 735c244d2c26eecf4a14fff7423091774fe268c9 " https://hunter.io/api-keys
