@@ -1,0 +1,1179 @@
+Hive (C:\Users\braya\Downloads\NTUSER\NTUSER.DAT) is not dirty.
+
+----------------------------------------
+listsoft v.20200517
+(NTUSER.DAT) Lists contents of user's Software key
+
+listsoft v.20200517
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+2020-11-17 16:31:33Z 	JavaSoft
+2020-11-17 16:25:48Z 	Microsoft
+2020-09-28 03:12:37Z 	Valve
+2020-09-28 03:12:17Z 	Innersloth
+2020-08-31 03:26:47Z 	IM Providers
+2020-08-31 03:25:51Z 	RegisteredApplications
+2020-08-21 01:56:08Z 	Mojang
+2020-07-12 06:58:08Z 	BlueStacksInstaller
+2020-06-27 07:00:44Z 	Unity Technologies
+2020-06-27 06:58:43Z 	Witch Nighto Studio
+2020-06-09 15:42:59Z 	Adobe
+2020-02-19 00:55:50Z 	Twitch Desktop
+2019-08-06 01:20:44Z 	WinRAR
+2019-04-25 00:56:31Z 	BraveSoftware
+2019-02-22 00:51:10Z 	QtProject
+2019-02-22 00:51:04Z 	Roblox
+2019-02-14 02:21:56Z 	ROBLOX Corporation
+2018-11-06 14:21:49Z 	Hewlett-Packard
+2018-10-31 16:34:10Z 	McAfee
+2018-10-17 02:22:30Z 	Google
+2018-08-11 14:58:16Z 	Discord
+2018-06-16 18:51:25Z 	Epic Games
+2018-04-28 01:44:53Z 	Chromium
+2018-03-10 00:32:23Z 	TrueKey
+2018-03-06 15:20:53Z 	HP
+2018-03-05 23:45:44Z 	Netscape
+2018-03-05 23:45:44Z 	ODBC
+2018-03-04 18:42:47Z 	Clients
+2018-03-04 18:42:41Z 	Intel
+2018-03-04 18:42:01Z 	AppDataLow
+2018-03-04 18:41:53Z 	Policies
+----------------------------------------
+load v.20200517
+(NTUSER.DAT) Gets load and run values from user hive
+
+load
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time 2020-11-13 19:06:38Z
+
+load value not found.
+run value not found.
+----------------------------------------
+logonstats v.20200517
+Gets contents of user's LogonStats key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\LogonStats not found.
+----------------------------------------
+lxss v.20200511
+(NTUSER.DAT) Gets WSL config.
+
+Software\Microsoft\Windows\CurrentVersion\Lxss not found.
+----------------------------------------
+mixer v.20200517
+(NTUSER.DAT) Checks user's audio mixer settings
+
+LastWrite Time, App, Device GUID
+2018-08-09 15:58:39Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Discord\app-0.0.301\Discord.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-06-27 06:58:42Z,\Device\HarddiskVolume2\Users\Guest\Documents\Downloads\Oppaimon_Win_0.6.3\Oppaimon.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-01-30 02:25:14Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Chess\Chess.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-01-18 00:38:19Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Discord\app-0.0.304\Discord.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-08-18 18:56:45Z,\Device\HarddiskVolume2\Users\Guest\AppData\Roaming\Twitch\Bin\Electron\TwitchUI.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-01-30 02:41:04Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Mahjong\Mahjong.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-09-06 20:06:19Z,\Device\HarddiskVolume2\Program Files\Java\jre1.8.0_261\bin\javaw.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-03-23 02:24:13Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Discord\app-0.0.306\Discord.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-05-08 23:22:56Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-d8b93c3784384690\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-03-08 23:08:57Z,\Device\HarddiskVolume2\Program Files\Google\Chrome\Application\chrome.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-08-21 02:01:48Z,\Device\HarddiskVolume2\Program Files\Minecraft Launcher\runtime\jre-x86\bin\javaw.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-08-26 23:49:43Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-49fb5be7759a4ecf\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-07-23 03:13:00Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\FreeCell\FreeCell.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-07-17 18:32:22Z,\Device\HarddiskVolume2\Users\Guest\AppData\Roaming\Twitch\Bin\Twitch.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-12-21 13:31:28Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Multiplayer\Backgammon\bckgzm.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-04-29 20:38:57Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-48324d3e7c7e4d7c\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-10-12 16:30:22Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Discord\app-0.0.308\Discord.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-03-06 01:42:27Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Solitaire\Solitaire.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-08-10 20:36:56Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-9d38e4c6fb804c52\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-02-14 02:24:02Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-956696c38c0d4bb4\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-03-14 23:48:26Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Discord\app-0.0.305\Discord.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-01-30 02:38:39Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Purble Place\PurblePlace.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-08-31 14:03:20Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Microsoft\Teams\stage\Teams.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-08-21 03:10:26Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-5306be9929984619\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-05-28 22:11:56Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-feab53d15cfb46d6\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-07-23 03:11:25Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Hearts\Hearts.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-08-21 02:16:12Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Temp\ir_ext_temp_0\autorun.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-04-29 21:48:02Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\SpiderSolitaire\SpiderSolitaire.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-09-28 03:25:58Z,\Device\HarddiskVolume2\Program Files\Steam\steam.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-09-23 20:38:33Z,\Device\HarddiskVolume2\Program Files\Java\jre1.8.0_261\bin\javaw.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-11-08 16:21:32Z,\Device\HarddiskVolume2\Users\Guest\Desktop\KunoichiTrainer-0.13.2-pc\KunoichiTrainer-0.13.2-pc\lib\windows-i686\KunoichiTrainer.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-08-07 15:15:49Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Discord\app-0.0.307\Discord.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-03-08 23:08:58Z,#,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-03-11 19:08:23Z,\Device\HarddiskVolume2\Program Files\Java\jre1.8.0_121\bin\javaw.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-09-28 03:12:17Z,\Device\HarddiskVolume2\Users\Guest\Desktop\Among Us v2020.9.22s (DaddySurvivor)\Among Us.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2018-06-27 02:21:43Z,\Device\HarddiskVolume2\Program Files\Microsoft Games\Minesweeper\MineSweeper.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-04-25 00:58:37Z,\Device\HarddiskVolume2\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2020-09-15 16:38:22Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Microsoft\Teams\current\Teams.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+2019-02-22 00:53:26Z,\Device\HarddiskVolume2\Users\Guest\AppData\Local\Roblox\Versions\version-1d6778e03984449e\RobloxPlayerBeta.exe,{4ce87879-0c26-4840-99e3-b3f0d739bf3e}
+----------------------------------------
+mmc v.20200517
+(NTUSER.DAT) Get contents of user's MMC\Recent File List key
+
+MMC - Recent File List
+Software\Microsoft\Microsoft Management Console\Recent File List
+LastWrite Time 2020-08-07 01:49:04Z
+  File1 -> C:\Windows\system32\devmgmt.msc
+----------------------------------------
+mmo v.20200517
+(NTUSER.DAT) Checks NTUSER for Multimedia\Other values [malware]
+
+Software\Microsoft\Multimedia\Other not found.
+Software\Microsoft\CTF\LangBarAddIn not found.
+----------------------------------------
+mndmru v.20200517
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU not found.
+----------------------------------------
+mp2 v.20200526
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+MountPoints2
+Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+LastWrite Time 2020-10-07 02:38:32Z
+
+Remote Drives:
+
+Volumes:
+2020-10-07 02:38:32Z
+  {b185e5ac-b6ec-11e8-8c9a-7071bc2e37f4}
+2019-12-17 17:36:48Z
+  {cdfc7aa6-cc2a-11e8-a85b-7071bc2e37f4}
+2019-02-06 01:27:56Z
+  {d5adcbcf-8cde-11e6-b829-806e6f6e6963}
+  {d5adcbd2-8cde-11e6-b829-806e6f6e6963}
+2018-11-21 04:40:43Z
+  {d5adcbce-8cde-11e6-b829-806e6f6e6963}
+
+Drives:
+2018-03-09 21:25:46Z - F
+2018-03-09 00:47:18Z - E
+2018-03-09 00:47:17Z - C,D
+
+Unique MAC Addresses:
+80:6E:6F:6E:69:63
+70:71:BC:2E:37:F4
+
+Analysis Tip: Correlate the Volume entries to those found in the MountedDevices
+entries that begin with "\??\Volume".
+----------------------------------------
+mpmru v.20200517
+(NTUSER.DAT) Gets user's Media Player RecentFileList values
+
+Software\Microsoft\MediaPlayer\Player\RecentFileList not found.
+----------------------------------------
+msoffice v.20200518
+
+
+Software\Microsoft\Office\12.0\Common\Internet
+LastWrite time: 2018-04-10 21:55:58Z
+UseRWHlinkNavigation value = Presentación1
+
+
+Word - File MRU
+
+PowerPoint - File MRU
+
+
+----------------------------------------
+muicache v.20200525
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache not found.
+
+Local Settings\Software\Microsoft\Windows\Shell\MUICache not found.
+----------------------------------------
+nation v.20200517
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite time: 2018-03-04 18:41:52Z
+
+The Region value is : 166
+The Country Is: Mexico
+For more information please visit the link below:
+https://msdn.microsoft.com/en-us/library/aa723531.aspx
+
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+Office Version: 12.0
+Software\Microsoft\Office\12.0\Common\Internet\Server Cache not found.
+----------------------------------------
+onedrive v.20200515
+(NTUSER.DAT) Gets contents of user's OneDrive key
+
+Software\Microsoft\OneDrive not found.
+----------------------------------------
+OSVersion
+Software\Microsoft
+LastWrite Time 2020-11-17 16:25:48Z
+
+OSVersion value not found.
+----------------------------------------
+outlookhomepage v.20201002
+(NTUSER.DAT, Software) Retrieve values set to attack Outlook WebView Homepage
+
+Looking for webview homepage modifications. If this value is pointing
+to a URL outside the corporate domain it may be a malicious site.
+
+Looking for key values associated with security.
+If you see:
+[Example]  EnableRoamingFolderHomepages : 1
+[Example]  NonDefaultStoreScript : 1
+[Example]  EnableUnsafeClientMailRules : 1
+You may have a security vulnerability that allows attackers to hijack the URL
+
+----------------------------------------
+pendinggpos v.20200427
+NTUSER.DAT - Gets contents of user's PendingGPOs key
+
+Software\Microsoft\IEAK\GroupPolicy\PendingGPOs not found.
+----------------------------------------
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time 2018-03-04 18:41:52Z
+
+TEMP -> %USERPROFILE%\AppData\Local\Temp
+TMP -> %USERPROFILE%\AppData\Local\Temp
+
+----------------------------------------
+pslogging v.20200515
+(NTUSER.DAT, Software) Extracts PowerShell logging settings
+
+Software\Policies\Microsoft\Windows\PowerShell not found.
+Policies\Microsoft\Windows\PowerShell not found.
+----------------------------------------
+----------------------------------------
+putty v.20200515
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+Software\SimonTatham\PuTTY\SshHostKeys not found.
+
+----------------------------------------
+recentapps v.20200515
+- Gets contents of user's RecentApps key
+
+Software\Microsoft\Windows\CurrentVersion\Search\RecentApps not found.
+----------------------------------------
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2020-11-15 18:31:59Z
+  20 = screenshots
+  84 = 2020-09-25_21.27.44.png
+  98 = Notification Area Icons
+  82 = 2020-09-10_17.28.11.png
+  24 = 2020-09-13_01.37.56.png
+  39 = 2020-09-22_19.50.45.png
+  1 = Downloads
+  4 = ACTIVIDAD DE EVALUACIÓN PRIMER TRIMESTRE.docx
+  138 = TAREAS examen.pdf
+  22 = Residente.png
+  14 = KunoichiTrainer-0.13.2-pc
+  139 = KunoichiTrainer-0.13.2-pc.zip
+  132 = examen parcial I bimestre fisicacontestado.doc
+  36 = My Pictures
+  134 = Imagen1.png
+  23 = original.jpg
+  107 = 2711500d07ddac7e.png
+  120 = 2711500d07ddac7e (1).png
+  97 = Dialnet-InventarioFraseologicoDeLasGroseriasEnEstudiantesD-4777780.pdf
+  109 = 74e1c24a3f7496ef.png
+  65 = media.docx
+  73 = proporcion.docx
+  83 = portada.docx
+  125 = 2020_07_03_traje-de-bodas-14739175.png
+  45 = LUNES12DEOCTUBREC_FISICA.docx
+  32 = TAREAS
+  43 = LUNES12DEOCTUBREC_FISICA (1).docx
+  75 = JUEVES15DEOCT.C_FISICA.docx
+  81 = MARTES 13 DE OCT. 2020.docx
+  61 = Listado Hipotesis media.docx
+  40 = Listado ejercicios prueba hipotesis proporciones.docx
+  135 = FIEL_IABM791201KM0_20190110145904
+  15 = iabm791201km0.cer
+  136 = Claveprivada_FIEL_IABM791201KM0_20190110_145904.key
+  137 = Programs
+  127 = FIEL_VAOV690911H63_20180702133708
+  72 = Pistas_FIEL_VAOV690911H63_20180702_133708.txt
+  58 = Pistas_FIEL_IABM791201KM0_20190110_145904.txt
+  110 = Claveprivada_FIEL_IABM791201KM0_20190110_145904 (1).key
+  131 = Among Us v2020.9.22s (DaddySurvivor).rar
+  10 = resourcepacks
+  66 = !    §5Synthwave §e[256x].zip
+  133 = !             §2M§fe§0x§fi§2co.zip
+  105 = System and Security
+  86 = idea clan.jpg
+  33 = 117836442_2791742504405619_3658285831913062709_n.jpg
+  106 = fotossssssssssssssssss.jpg
+  7 = WhatsApp Image 2020-09-10 at 12.43.44 PM (1).jpeg
+  119 = §f§5§lBliZZant Pack 1.8.rar
+  17 = WhatsApp Images
+  44 = Media
+  3 = Pictures
+  108 = NETIQUETA.pptx
+  79 = 20200828_231421.jpg
+  46 = 20200828_235350.jpg
+  93 = 20200828_231510.jpg
+  27 = gryjhrfydhgdfjdf.jpg
+  9 = ENCUESTA ALUMNOS FINAL MC.xlsx
+  71 = Minecraft.zip
+  130 = Troubleshooting
+  121 = Info
+  42 = UANL _ SIASE.pdf
+  5 = Appearance and Personalization
+  69 = ! §3PainTrain Pack §o§r.zip
+  62 = 10 ! §4Cobalt by zEpiicYT
+  115 = 10 ! §4Cobalt by zEpiicYT.zip
+  129 = texturepacks
+  2 = Claw - Extract.rar
+  128 = libraries
+  60 = minecraft.ico
+  28 = Display
+  51 = Estafa 2
+  87 = Photo Editor
+  47 = Tarjeta SD
+  11 = __
+  18 = Cuestionario de identificación de fact.pdf
+  85 = Cuestionario de id.pdf
+  80 = factores de riesgo en viajeros.pdf
+  38 = Cuestionario de identificación de factores de riesgo en viajeros.pdf
+  104 = BoardingPass2378150020BRISEIDA GUADALUPE_VÁZQUEZ IZAGUIRREMEXCUN0931.pdf
+  30 = BoardingPass2378150020BRAYAN REYMUNDO_REYNA MACIASMEXCUN0210.pdf
+  37 = BoardingPass2167152020BRISEIDA GUADALUPE_VÁZQUEZ IZAGUIRREMTYMEX0929.pdf
+  29 = desarrollo.zip
+  64 = desarrollo
+  49 = snge2.jpg
+  95 = ange.jpg
+  8 = KunoichiTrainer-0.13.1-pc.zip
+  50 = KunoichiTrainer-0.13.1-pc
+  126 = WhatsApp Image 2020-07-09 at 12.23.46 PM.jpeg
+  41 = KunoichiTrainer-0.12.3-pc.zip
+  54 = KunoichiTrainer-0.12.3-pc
+  56 = Arciform.ttf
+  67 = icon.ico
+  52 = semana 27-1 mayo.ppt
+  124 = G9B5C2.doc
+  13 = (111) ��Tik Tok��Cute outfit�� - Roblox.html
+  31 = Características de los seres vivos.pptx
+  74 = Formacioooooooooooooooooooooooooooonnnnnnnnnnnnnnnnnnnnnnnnnnn.pptx
+  123 = Matematicas 23.pptx
+  88 = WhatsApp Image 2020-03-25 at 17.24.54.jpeg
+  112 = WhatsApp Image 2020-03-17 at 21.05.04.jpeg
+  103 = desierto geografia.pptx
+  59 = Historia 10.pptx
+  19 = FORMACION.pptx
+  12 = leyendas.pptx
+  114 = Mexico 1.pptx
+  117 = Fisica.pptx
+  96 = pika.gif
+  118 = main-qimg-63e6f6dd5d4d5494d6fcd54501b482fa (1).webp
+  78 = main-qimg-63e6f6dd5d4d5494d6fcd54501b482fa.webp
+  116 = WhatsApp Image 2019-06-16 at 7.39.07 PM.jpeg
+  113 = WhatsApp Image 2019-06-16 at 7.39.33 PM.jpeg
+  92 = Informacion.txt
+  89 = Normal.dotm
+  94 = WhatsApp Image 2019-05-14 at 8.36.33 AM.jpeg
+  35 = WhatsApp Image 2019-03-19 at 9.30.28 PM.jpeg
+  101 = INGLÉS-TURISMO-3-ETAPA-4-INTEGRADORA (1).doc
+  102 = INGLÉS-TURISMO-3-PRODUCTO-INTEGRADOR.doc
+  99 = INGLÉS-TURISMO-3-ETAPA-3-INTEGRADORA-copia (1).doc
+  111 = INGLÉS-TURISMO-3-ETAPA-2-INTEGRADORA.doc
+  91 = 75EF3A03-B5F7-401E-8EC9-82D3248DA351-850x491.jpeg
+  63 = fornite.jpeg
+  100 = INGLÉS-TURISMO-3-ETAPA-3-INTEGRADORA-copia.doc
+  90 = INGLÉS-TURISMO-3-ETAPA-4-INTEGRADORA.doc
+  48 = DOSIF.-PROG-INGLES-TURISMO-3-EJ19.doc
+  34 = PIABIO.pub
+  70 = Semanal B 22 del 2018.xml
+  77 = Semanal B 22 del 2018 (1).xml
+  76 = Semanal B 26 del 2018.xml
+  68 = Fortnite (@fortnite) • Fotos y vídeos de Instagram.html
+  57 = cpeExitCode.txt
+  55 = DelFLC.vbs
+  53 = Guest.contact
+  16 = Solitaire.SolitaireSave-ms
+  25 = xhm1u5ap3p08e01.jpg.pagespeed.ic.5lkjy_Tkpa.webp
+  6 = Minecraft NIKO 2312.rar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.cer
+LastWrite Time 2020-10-08 01:54:33Z
+MRUListEx = 0
+  0 = iabm791201km0.cer
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.contact
+LastWrite Time 2018-06-17 15:14:37Z
+MRUListEx = 0
+  0 = Guest.contact
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.doc
+LastWrite Time 2020-11-03 17:40:32Z
+MRUListEx = 8,7,3,5,1,6,2,4,0
+  8 = examen parcial I bimestre fisicacontestado.doc
+  7 = G9B5C2.doc
+  3 = INGLÉS-TURISMO-3-ETAPA-4-INTEGRADORA (1).doc
+  5 = INGLÉS-TURISMO-3-PRODUCTO-INTEGRADOR.doc
+  1 = INGLÉS-TURISMO-3-ETAPA-3-INTEGRADORA-copia (1).doc
+  6 = INGLÉS-TURISMO-3-ETAPA-2-INTEGRADORA.doc
+  2 = INGLÉS-TURISMO-3-ETAPA-3-INTEGRADORA-copia.doc
+  4 = INGLÉS-TURISMO-3-ETAPA-4-INTEGRADORA.doc
+  0 = DOSIF.-PROG-INGLES-TURISMO-3-EJ19.doc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.docx
+LastWrite Time 2020-11-13 01:31:34Z
+MRUListEx = 1,3,5,9,7,8,6,2,0,4
+  1 = ACTIVIDAD DE EVALUACIÓN PRIMER TRIMESTRE.docx
+  3 = media.docx
+  5 = proporcion.docx
+  9 = portada.docx
+  7 = LUNES12DEOCTUBREC_FISICA.docx
+  8 = LUNES12DEOCTUBREC_FISICA (1).docx
+  6 = JUEVES15DEOCT.C_FISICA.docx
+  2 = MARTES 13 DE OCT. 2020.docx
+  0 = Listado Hipotesis media.docx
+  4 = Listado ejercicios prueba hipotesis proporciones.docx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dotm
+LastWrite Time 2019-05-23 15:24:12Z
+MRUListEx = 0
+  0 = Normal.dotm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.gif
+LastWrite Time 2019-11-05 22:06:41Z
+MRUListEx = 0
+  0 = pika.gif
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.html
+LastWrite Time 2020-05-03 07:02:50Z
+MRUListEx = 1,0
+  1 = (111) ��Tik Tok��Cute outfit�� - Roblox.html
+  0 = Fortnite (@fortnite) • Fotos y vídeos de Instagram.html
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ico
+LastWrite Time 2020-08-14 21:15:37Z
+MRUListEx = 1,0
+  1 = minecraft.ico
+  0 = icon.ico
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpeg
+LastWrite Time 2020-09-19 11:17:33Z
+MRUListEx = 1,0,9,8,7,6,5,4,3,2
+  1 = WhatsApp Image 2020-09-10 at 12.43.44 PM (1).jpeg
+  0 = WhatsApp Image 2020-07-09 at 12.23.46 PM.jpeg
+  9 = WhatsApp Image 2020-03-25 at 17.24.54.jpeg
+  8 = WhatsApp Image 2020-03-17 at 21.05.04.jpeg
+  7 = WhatsApp Image 2019-06-16 at 7.39.07 PM.jpeg
+  6 = WhatsApp Image 2019-06-16 at 7.39.33 PM.jpeg
+  5 = WhatsApp Image 2019-05-14 at 8.36.33 AM.jpeg
+  4 = WhatsApp Image 2019-03-19 at 9.30.28 PM.jpeg
+  3 = 75EF3A03-B5F7-401E-8EC9-82D3248DA351-850x491.jpeg
+  2 = fornite.jpeg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time 2020-10-31 22:31:53Z
+MRUListEx = 2,5,1,7,9,0,6,8,3,4
+  2 = original.jpg
+  5 = idea clan.jpg
+  1 = 117836442_2791742504405619_3658285831913062709_n.jpg
+  7 = fotossssssssssssssssss.jpg
+  9 = 20200828_231421.jpg
+  0 = 20200828_235350.jpg
+  6 = 20200828_231510.jpg
+  8 = gryjhrfydhgdfjdf.jpg
+  3 = snge2.jpg
+  4 = ange.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.key
+LastWrite Time 2020-10-08 01:54:29Z
+MRUListEx = 1,0
+  1 = Claveprivada_FIEL_IABM791201KM0_20190110_145904.key
+  0 = Claveprivada_FIEL_IABM791201KM0_20190110_145904 (1).key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.minecraft
+LastWrite Time 2018-06-16 18:52:26Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pdf
+LastWrite Time 2020-11-13 01:31:09Z
+MRUListEx = 3,5,2,8,6,9,7,4,1,0
+  3 = TAREAS examen.pdf
+  5 = Dialnet-InventarioFraseologicoDeLasGroseriasEnEstudiantesD-4777780.pdf
+  2 = UANL _ SIASE.pdf
+  8 = Cuestionario de identificación de fact.pdf
+  6 = Cuestionario de id.pdf
+  9 = factores de riesgo en viajeros.pdf
+  7 = Cuestionario de identificación de factores de riesgo en viajeros.pdf
+  4 = BoardingPass2378150020BRISEIDA GUADALUPE_VÁZQUEZ IZAGUIRREMEXCUN0931.pdf
+  1 = BoardingPass2378150020BRAYAN REYMUNDO_REYNA MACIASMEXCUN0210.pdf
+  0 = BoardingPass2167152020BRISEIDA GUADALUPE_VÁZQUEZ IZAGUIRREMTYMEX0929.pdf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png
+LastWrite Time 2020-11-15 18:31:52Z
+MRUListEx = 8,1,0,9,2,4,7,3,5,6
+  8 = 2020-09-25_21.27.44.png
+  1 = 2020-09-10_17.28.11.png
+  0 = 2020-09-13_01.37.56.png
+  9 = 2020-09-22_19.50.45.png
+  2 = Residente.png
+  4 = Imagen1.png
+  7 = 2711500d07ddac7e.png
+  3 = 2711500d07ddac7e (1).png
+  5 = 74e1c24a3f7496ef.png
+  6 = 2020_07_03_traje-de-bodas-14739175.png
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ppt
+LastWrite Time 2020-06-05 17:45:09Z
+MRUListEx = 0
+  0 = semana 27-1 mayo.ppt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptx
+LastWrite Time 2020-09-02 16:48:56Z
+MRUListEx = 1,7,2,4,5,8,9,3,6,0
+  1 = NETIQUETA.pptx
+  7 = Características de los seres vivos.pptx
+  2 = Formacioooooooooooooooooooooooooooonnnnnnnnnnnnnnnnnnnnnnnnnnn.pptx
+  4 = Matematicas 23.pptx
+  5 = desierto geografia.pptx
+  8 = Historia 10.pptx
+  9 = FORMACION.pptx
+  3 = leyendas.pptx
+  6 = Mexico 1.pptx
+  0 = Fisica.pptx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pub
+LastWrite Time 2018-11-28 03:10:58Z
+MRUListEx = 0
+  0 = PIABIO.pub
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rar
+LastWrite Time 2020-09-28 03:10:57Z
+MRUListEx = 3,2,1,0
+  3 = Among Us v2020.9.22s (DaddySurvivor).rar
+  2 = §f§5§lBliZZant Pack 1.8.rar
+  1 = Claw - Extract.rar
+  0 = Minecraft NIKO 2312.rar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.SolitaireSave-ms
+LastWrite Time 2018-06-17 15:13:13Z
+MRUListEx = 0
+  0 = Solitaire.SolitaireSave-ms
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ttf
+LastWrite Time 2020-06-27 05:18:17Z
+MRUListEx = 0
+  0 = Arciform.ttf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time 2020-10-07 02:47:54Z
+MRUListEx = 2,3,1,0
+  2 = Pistas_FIEL_VAOV690911H63_20180702_133708.txt
+  3 = Pistas_FIEL_IABM791201KM0_20190110_145904.txt
+  1 = Informacion.txt
+  0 = cpeExitCode.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vbs
+LastWrite Time 2018-06-17 15:22:50Z
+MRUListEx = 0
+  0 = DelFLC.vbs
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.webp
+LastWrite Time 2019-10-21 02:48:34Z
+MRUListEx = 2,1,0
+  2 = main-qimg-63e6f6dd5d4d5494d6fcd54501b482fa (1).webp
+  1 = main-qimg-63e6f6dd5d4d5494d6fcd54501b482fa.webp
+  0 = xhm1u5ap3p08e01.jpg.pagespeed.ic.5lkjy_Tkpa.webp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlsx
+LastWrite Time 2020-08-21 21:37:10Z
+MRUListEx = 0
+  0 = ENCUESTA ALUMNOS FINAL MC.xlsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xml
+LastWrite Time 2018-07-14 13:24:40Z
+MRUListEx = 0,2,1
+  0 = Semanal B 22 del 2018.xml
+  2 = Semanal B 22 del 2018 (1).xml
+  1 = Semanal B 26 del 2018.xml
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip
+LastWrite Time 2020-11-08 16:06:00Z
+MRUListEx = 6,0,2,3,9,1,4,5,7,8
+  6 = KunoichiTrainer-0.13.2-pc.zip
+  0 = !    §5Synthwave §e[256x].zip
+  2 = !             §2M§fe§0x§fi§2co.zip
+  3 = SHADERS PA TI PAPU ;3.zip
+  9 = Minecraft.zip
+  1 = ! §3PainTrain Pack §o§r.zip
+  4 = 10 ! §4Cobalt by zEpiicYT.zip
+  5 = desarrollo.zip
+  7 = KunoichiTrainer-0.13.1-pc.zip
+  8 = KunoichiTrainer-0.12.3-pc.zip
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time 2020-11-15 18:31:59Z
+MRUListEx = 22,15,4,17,29,19,16,18,24,7,13,11,8,0,20,25,12,10,3,5,27,1,28,2,26,23,9,6,21,14
+  22 = screenshots
+  15 = Notification Area Icons
+  4 = Downloads
+  17 = KunoichiTrainer-0.13.2-pc
+  29 = My Pictures
+  19 = TAREAS
+  16 = FIEL_IABM791201KM0_20190110145904
+  18 = Programs
+  24 = FIEL_VAOV690911H63_20180702133708
+  7 = resourcepacks
+  13 = System and Security
+  11 = WhatsApp Images
+  8 = Media
+  0 = SHADERS PA TI PAPU ;3
+  20 = shaderpacks
+  25 = Pictures
+  12 = Troubleshooting
+  10 = Info
+  3 = Appearance and Personalization
+  5 = 10 ! §4Cobalt by zEpiicYT
+  27 = texturepacks
+  1 = libraries
+  28 = Display
+  2 = Estafa 2
+  26 = Photo Editor
+  23 = Tarjeta SD
+  9 = __
+  6 = desarrollo
+  21 = KunoichiTrainer-0.13.1-pc
+  14 = KunoichiTrainer-0.12.3-pc
+
+----------------------------------------
+run v.20200511
+(Software, NTUSER.DAT) [Autostart] Get autostart key contents from Software hive
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time 2020-11-15 22:25:22Z
+  Discord - C:\Users\Guest\AppData\Local\Discord\app-0.0.308\Discord.exe
+  com.squirrel.Teams.Teams - C:\Users\Guest\AppData\Local\Microsoft\Teams\Update.exe --processStart "Teams.exe" --process-start-args "--system-initiated"
+
+Software\Microsoft\Windows\CurrentVersion\Run has no subkeys.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+LastWrite Time 2020-08-21 01:48:45Z
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no values.
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no subkeys.
+
+Software\Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServicesOnce not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run32 not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\StartupFolder not found.
+
+----------------------------------------
+runmru v.20200525
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time 2018-03-09 01:04:07Z
+MRUList = a
+a   %appdata%\1
+----------------------------------------
+runvirtual v.20200427
+(NTUSER.DAT, Software) Gets RunVirtual entries
+
+----------------------------------------
+searchscopes v.20200517
+- Gets contents of user's SearchScopes key
+
+SearchScopes
+Software\Microsoft\Internet Explorer\SearchScopes
+DefaultScope: {0633EE93-D776-472f-A0FF-E1416B8B2E3A}
+
+{0633EE93-D776-472f-A0FF-E1416B8B2E3A} [2018-03-09 05:39:57Z]
+DisplayName: Bing
+
+----------------------------------------
+Software\7-Zip not found.
+Software\Wow6432Node\7-Zip not found.
+----------------------------------------
+shc v.20200427
+(NTUSER.DAT) Gets SHC entries from user hive
+
+Software\Microsoft\Windows\CurrentVersion\UFH\SHC not found.
+----------------------------------------
+shellfolders v.20200515
+Gets user's shell folders values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time 2018-03-04 18:42:27Z
+StartUp folder : C:\Users\Guest\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+LastWrite Time 2019-02-08 01:48:09Z
+StartUp folder : %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+----------------------------------------
+speech v.20200427
+(NTUSER.DAT) Get values from user's Speech key
+
+Software\Microsoft\Speech
+CurrentUserLexicon Datafile value    : %1a%\Microsoft\Speech\Files\UserLexicons\SP_5714B200819B4BC1B98070427D78115D.dat
+
+Voices DefaultTokenId value          : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\MS-Anna-1033-20-DSK
+
+PhoneConverters DefaultTokenId value : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\PhoneConverters\Tokens\English
+----------------------------------------
+Software\SysInternals not found.
+----------------------------------------
+Launching tsclient v.20200518
+(NTUSER.DAT) Displays contents of user's Terminal Server Client\Default key
+
+Software\Microsoft\Terminal Server Client\Default not found.
+
+Software\Microsoft\Terminal Server Client\Servers not found.
+----------------------------------------
+typedpaths v.20200526
+(NTUSER.DAT) Gets contents of user's typedpaths key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+LastWrite Time 2018-03-08 23:09:36Z
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths has no values.
+----------------------------------------
+typedurls v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time 2019-02-05 16:04:12Z
+  url1 -> https://micuenta.infonavit.org.mx/wps/myportal/TRABAJADORES/misserviciospersonalizados2/avisoretencionsuspension/!ut/p/z1/lZHLDoIwEEW_xS_otOVRlwVqeVkgaMDZGFaGRNGF8fsVYtwYKs5uknPnzp0hSFqCQ_foT929vw7d-dUf0DsyTzpBQCVolXogKTVhViYcFCfNBMBMSSC4RP8BxKYOQMqqpjrdgV7zSa9ZJGIObAu58aHSWagMB1rE7K0PtYwdPwcQhRDAjCoj5mSgK3eZv8UA59cTpWvffwT-y_8NoP28DcEJsV3g1wy0hRx_cLvsx2qhT1ZPEnCYLw!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzI2QTRCQjFBMDhGU0IwQUFRUzFHSlQwOFA1/#
+  url2 -> http://go.microsoft.com/fwlink/p/?LinkId=255141
+----------------------------------------
+typedurlstime v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+TypedURLsTime
+Software\Microsoft\Internet Explorer\TypedURLsTime
+LastWrite Time 2019-02-05 16:04:12Z
+  url1 -> 2019-02-05 16:04:12Z (https://micuenta.infonavit.org.mx/wps/myportal/TRABAJADORES/misserviciospersonalizados2/avisoretencionsuspension/!ut/p/z1/lZHLDoIwEEW_xS_otOVRlwVqeVkgaMDZGFaGRNGF8fsVYtwYKs5uknPnzp0hSFqCQ_foT929vw7d-dUf0DsyTzpBQCVolXogKTVhViYcFCfNBMBMSSC4RP8BxKYOQMqqpjrdgV7zSa9ZJGIObAu58aHSWagMB1rE7K0PtYwdPwcQhRDAjCoj5mSgK3eZv8UA59cTpWvffwT-y_8NoP28DcEJsV3g1wy0hRx_cLvsx2qhT1ZPEnCYLw!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzI2QTRCQjFBMDhGU0IwQUFRUzFHSlQwOFA1/#)
+  url2 -> 2019-02-05 16:03:34Z (http://go.microsoft.com/fwlink/p/?LinkId=255141)
+----------------------------------------
+uninstall v.20200525
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+2020-10-11 17:27:50Z
+  Discord v.0.0.308
+
+2020-08-31 03:48:12Z
+  Microsoft Teams v.1.3.00.21759
+
+----------------------------------------
+UserAssist
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LastWrite Time 2018-03-04 18:42:33Z
+
+{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}
+2020-11-17 16:51:34Z
+  C:\Users\Guest\AppData\Roaming\.minecraft\TLauncher.exe (101)
+2020-11-17 16:27:56Z
+  Chrome (151)
+2020-11-15 22:03:24Z
+  Microsoft.Windows.StickyNotes (23)
+2020-11-15 18:30:42Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\explorer.exe (23)
+2020-11-14 06:26:25Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\calc.exe (33)
+2020-11-13 00:00:44Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\WINWORD.EXE (10)
+2020-11-08 16:19:35Z
+  C:\Users\Guest\Desktop\KunoichiTrainer-0.13.2-pc\KunoichiTrainer-0.13.2-pc\KunoichiTrainer.exe (2)
+2020-11-06 06:06:10Z
+  C:\Users\Guest\Desktop\Among Us v2020.9.22s (DaddySurvivor)\Among Us.exe (7)
+2020-10-28 01:23:05Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Google\Chrome\Application\chrome.exe (1)
+2020-10-19 04:13:54Z
+  Microsoft.Office.WINWORD.EXE.15 (3)
+2020-10-11 17:28:08Z
+  com.squirrel.Discord.Discord (1)
+2020-10-11 17:26:52Z
+  C:\Users\Guest\Desktop\DiscordSetup.exe (1)
+2020-10-11 07:39:35Z
+  Microsoft.Windows.MediaPlayer32 (1)
+2020-10-09 12:19:42Z
+  com.squirrel.Teams.Teams (1)
+2020-10-08 14:59:16Z
+  C:\Users\Guest\Desktop\TLauncher-2.72-Installer-0.6.5.v2 (1).exe (0)
+2020-10-08 00:40:59Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\control.exe (0)
+2020-10-07 02:48:07Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\rundll32.exe (0)
+2020-10-07 02:47:54Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\notepad.exe (0)
+2020-09-30 07:01:29Z
+  C:\Users\Guest\Desktop\TLauncher-2.72-Installer-0.6.5.v2.exe (0)
+2020-09-29 16:27:13Z
+  C:\Users\Guest\Desktop\Minecraft.exe (0)
+2020-09-28 20:51:10Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\mspaint.exe (0)
+2020-09-28 20:47:57Z
+  C:\Users\Guest\Desktop\TLauncher-2.72-Installer-0.6.5.v2 (2).exe (0)
+2020-09-28 03:45:45Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\Steam.exe (0)
+2020-09-28 03:22:44Z
+  C:\Users\Guest\Desktop\SteamSetup.exe (0)
+2020-09-28 03:13:12Z
+  C:\Users\Guest\Desktop\Among Us v2020.9.22s (DaddySurvivor)\UnityCrashHandler32.exe (0)
+2020-09-28 03:11:29Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\WinRAR\WinRAR.exe (0)
+2020-09-28 03:10:13Z
+  C:\Users\Guest\Desktop\wrar591es.exe (0)
+2020-09-23 20:32:30Z
+  C:\Users\Guest\Desktop\LoiLoGameRecorder1-1-0-0.exe (0)
+2020-09-19 00:19:54Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\eHome\ehshell.exe (0)
+2020-09-08 22:25:37Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Java\jre1.8.0_261\bin\javaw.exe (0)
+2020-09-02 16:13:50Z
+  Microsoft.Office.POWERPNT.EXE.15 (0)
+2020-08-21 02:20:48Z
+  C:\Users\Guest\Desktop\TLauncher-2.72-Installer-0.5.2.exe (0)
+2020-08-21 02:15:56Z
+  C:\Users\Guest\AppData\Local\Temp\Temp1_Minecraft.zip\Minecraft.exe (0)
+2020-08-21 01:49:15Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Minecraft Launcher\MinecraftLauncher.exe (0)
+2020-08-21 01:45:56Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\msiexec.exe (0)
+2020-08-21 01:16:31Z
+  C:\Users\Guest\Desktop\chromeinstall-8u261.exe (0)
+2020-08-21 01:12:32Z
+  C:\ProgramData\Oracle\Java\javapath\java.exe (0)
+2020-07-12 07:04:17Z
+  C:\Users\Guest\Documents\Downloads\BlueStacksInstaller_4.215.0.1019_native_50eefb5986a52f7f6bd3d1e302eb52de.exe (0)
+2020-07-11 02:41:03Z
+  C:\Users\Guest\Documents\Downloads\KunoichiTrainer-0.13.1-pc\KunoichiTrainer-0.13.1-pc\KunoichiTrainer.exe (0)
+2020-06-28 22:00:53Z
+  MSEdge (0)
+2020-06-27 06:58:41Z
+  C:\Users\Guest\Documents\Downloads\Oppaimon_Win_0.6.3\Oppaimon.exe (0)
+2020-06-27 06:57:29Z
+  C:\Users\Guest\Documents\Downloads\Oppaimon_Win_063.exe (0)
+2020-06-27 05:27:23Z
+  C:\Users\Guest\Documents\Downloads\nox_setup_v6.6.1.0_full_intl.exe (0)
+2020-06-27 05:18:52Z
+  C:\Users\Guest\Documents\Downloads\KunoichiTrainer-0.12.3-pc\KunoichiTrainer-0.12.3-pc\KunoichiTrainer.exe (0)
+2020-06-27 05:18:16Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\fontview.exe (0)
+2020-06-23 02:32:40Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HP\HP DeskJet 2130 series\Bin\HPScan.exe (0)
+2020-06-05 17:44:46Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Root\Office16\POWERPNT.EXE (0)
+2020-05-28 22:41:13Z
+  C:\Users\Guest\Documents\Downloads\BlueStacksInstaller_4.205.0.1006_native_cceb1ad3354f5280859fa3880e1fb2e2.exe (0)
+2020-05-03 20:21:35Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office12\POWERPNT.EXE (0)
+2020-05-03 20:14:33Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe (0)
+2020-05-03 05:33:05Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe (0)
+2020-04-29 20:38:06Z
+  Microsoft.AutoGenerated.{50902B8F-28A7-3F24-01ED-37CE82B26045} (0)
+2020-04-23 19:34:54Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office12\WINWORD.EXE (0)
+2020-03-18 16:31:07Z
+  Chrome.UserData.Default (0)
+2019-12-17 17:38:37Z
+  Microsoft.AutoGenerated.{ECD91DEE-1738-366D-F12A-C8CB686EC35B} (0)
+2019-08-09 17:34:16Z
+  C:\Users\Guest\Desktop\Minecraft Launcher.exe (0)
+2019-05-24 02:39:57Z
+  Microsoft.Windows.ControlPanel (0)
+2019-05-14 02:36:20Z
+  C:\Users\Guest\Desktop\BlueStacksInstaller_4.80.0.1060_native_8c336a89640d356088e11381c1ab8a2c.exe (0)
+2019-04-25 01:21:19Z
+  C:\Users\Guest\Desktop\BlueStacks-Installer_4.50.5.1003_amd64_native_66987ef3626b8c0562a09a9ba925e1f3.exe (0)
+2019-04-25 00:53:16Z
+  C:\Users\Guest\Desktop\BraveBrowserSetup32-VNI569.exe (0)
+2019-04-11 14:00:59Z
+  Twitch.Twitch.a8f7f02c82d0b2aed3a5791bed5f3005 (0)
+2019-04-01 16:42:53Z
+  Microsoft.AutoGenerated.{672A8B0B-7CC6-2FB2-6931-A754F38A3F8E} (0)
+2019-03-06 17:06:02Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\msdt.exe (0)
+2019-03-06 17:05:31Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\OptionalFeatures.exe (0)
+2019-02-23 00:33:34Z
+  Microsoft.AutoGenerated.{80F9AAA8-092E-65A5-E695-6795F76AC24F} (0)
+2019-02-22 00:50:15Z
+  Microsoft.AutoGenerated.{BAF7954B-4001-7754-5955-2B9BBF0CD621} (0)
+2019-02-22 00:49:36Z
+  C:\Users\Guest\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\O2DO4IE5\RobloxPlayerLauncher.exe (0)
+2019-02-22 00:47:41Z
+  C:\Users\Guest\RobloxPlayerLauncher.exe (0)
+2019-02-22 00:47:35Z
+  C:\Users\Guest\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\PLTTL0CM\RobloxPlayerLauncher.exe (0)
+2019-02-22 00:39:00Z
+  Microsoft.AutoGenerated.{C77B76A1-D819-EF73-7C6A-1756F4255B73} (0)
+2019-02-14 02:42:06Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\ComputerDefaults.exe (0)
+2019-02-10 19:05:25Z
+  Microsoft.InternetExplorer.Default (0)
+2019-02-08 03:35:54Z
+  C:\Users\Guest\Desktop\Photoshop_Set-Up.exe (0)
+2019-02-08 02:46:53Z
+  Chrome.UserData.Profile1 (0)
+2018-11-21 17:36:52Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office12\MSPUB.EXE (0)
+2018-10-18 19:55:11Z
+  Microsoft.AutoGenerated.{A2D97153-B7E3-4C5F-8098-AEDA9588EAF1} (0)
+2018-10-10 01:23:38Z
+  C:\Users\Guest\AppData\Local\Discord\app-0.0.301\Discord.exe (0)
+2018-09-09 14:00:09Z
+  C:\Users\Guest\Documents\Downloads\BlueStacks-Installer_BS3_native_2022404f884109752682b06478600718.exe (0)
+2018-08-20 14:44:41Z
+  _crx_bhkjnlklafhlaocibojdcijdlodeieca (0)
+2018-08-10 20:35:40Z
+  C:\Users\Guest\Desktop\RobloxPlayerLauncher.exe (0)
+2018-08-01 17:34:10Z
+  C:\Users\Guest\AppData\Roaming\Twitch\Bin\Twitch.exe (0)
+2018-07-17 18:31:15Z
+  C:\Users\Guest\Documents\Downloads\TwitchSetup_[usher-239506269].exe (0)
+2018-07-14 13:24:40Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Common Files\Microsoft Shared\OFFICE12\MSOXMLED.EXE (0)
+2018-07-10 02:31:08Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe (0)
+2018-06-17 15:22:50Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WScript.exe (0)
+2018-06-17 15:22:42Z
+  C:\SYSTEM.SAV\util\GetLangCountry.exe (0)
+2018-06-17 15:22:39Z
+  C:\SYSTEM.SAV\util\HPCheckOA21.exe (0)
+2018-06-17 15:22:27Z
+  C:\SYSTEM.SAV\util\automod32.exe (0)
+2018-06-17 15:14:37Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Windows Mail\wab.exe (0)
+2018-06-17 15:13:12Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Solitaire\solitaire.exe (0)
+2018-04-25 18:25:33Z
+  C:\Users\Guest\Desktop\BlueStacks2_native.exe (0)
+2018-03-23 04:08:04Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HP\HP DeskJet 2130 series\Bin\USBSetupLauncher.exe (0)
+2018-03-22 22:48:47Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office12\EXCEL.EXE (0)
+2018-03-04 18:40:45Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\SnippingTool.exe (0)
+  Microsoft.Windows.RemoteDesktop (0)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\magnify.exe (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\SndVol.exe
+  Microsoft.Windows.Helppane
+  Microsoft.Windows.PhotoViewer
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HP\HP Software Update\hpwucli.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\extrac32.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\SpiderSolitaire\spidersolitaire.exe
+  Microsoft.Windows.WindowsInstaller
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Minesweeper\minesweeper.exe
+  Twitch
+  C:\Users\Guest\AppData\Roaming\Twitch\Bin\CurseClientUpdater.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Common Files\Java\Java Update\jucheck.exe
+  Microsoft.AutoGenerated.{0BEE050C-FF82-8947-DE3F-4DA8D8AF6575}
+  C:\Users\Guest\AppData\Local\SquirrelTemp\Update.exe
+  Microsoft.AutoGenerated.{869A8FDF-C5FA-100E-1C20-3E2299835DD4}
+  C:\Users\Guest\AppData\Local\Roblox\Versions\version-9d38e4c6fb804c52\RobloxPlayerBeta.exe
+  Microsoft.AutoGenerated.{C0B8063C-2C2D-C9F3-1DA6-E758C4CAA4DC}
+  C:\Users\Guest\AppData\Local\Temp\7zS57C0.tmp\MicroInstallerNative.exe
+  C:\Users\Guest\AppData\Local\Temp\7zSDBAE.tmp\BlueStacks-Installer_4.1.21.2018.exe
+  C:\Users\computadora\AppData\Local\Temp\7zS2F69.tmp\MicroInstallerNative.exe
+  C:\Users\computadora\AppData\Local\Temp\7zS2F69.tmp\BlueStacks-Installer_4.1.21.2018.exe
+  Microsoft.AutoGenerated.{C37B3776-B1FA-85D6-92C2-966F9D5C6CB7}
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office12\CLVIEW.EXE
+  Chrome.UserData.SystemProfile
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HP\HP DeskJet 2130 series\Bin\HPPSDrDownloader.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Multiplayer\Backgammon\bckgzm.exe
+  Microsoft.AutoGenerated.{8BF40007-9CAB-B69F-3ECB-950D3A37FC12}
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\HP\Diagnostics\PSDR\HPPSDr.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Multiplayer\Checkers\chkrzm.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Chess\chess.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Purble Place\PurblePlace.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Games\Mahjong\Mahjong.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\McAfee Safe Connect\McAfee Safe Connect.exe
+  C:\Users\Guest\AppData\Local\Roblox\Versions\version-956696c38c0d4bb4\RobloxPlayerBeta.exe
+  C:\Users\Guest\AppData\Local\Temp\RBX-DDBEC68B\RobloxPlayerLauncher.exe
+  C:\Users\Guest\AppData\Local\Roblox\Versions\version-1d6778e03984449e\RobloxPlayerBeta.exe
+  Microsoft.AutoGenerated.{5309A6F3-3826-4739-8A9E-7FAD0161D95B}
+  Microsoft.AutoGenerated.{18E16CF8-014A-52B6-2A44-50261908AE74}
+  C:\Users\Guest\AppData\Local\Temp\Twitch\UpgradeTwitch.exe
+  C:\Users\Guest\AppData\Local\Temp\Twitch\Twitch.exe
+  Twitch.Twitch.66abab5ad14bc1a5d51373aa9da8c0fe
+  Twitch.Twitch.e216ab9561c73d37dbead5c4ce9586c0
+  Twitch.Twitch.45c4ad997432837cf529a284e9f377af
+  Twitch.Twitch.8321934642c177de46778f49280e59da
+  Twitch.Twitch.c69c0dc6dbcaf7b4372e6b80bd6576d8
+  Twitch.Twitch.badbb405a40ee55df0f44f04cb7f5da7
+  Twitch.Twitch.8b273419ae6ac8c9f1eeb7bc5fd3dbc9
+  Twitch.Twitch.bb467f5efb93b17b70fe53b1201e9cde
+  Twitch.Twitch.499f38398b7c72a1d77fcf01f14dc703
+  Twitch.Twitch.0070af3fa3b135f6cb42e318c194bd65
+  Twitch.Twitch.2de153519a1027bafd47ddcc1cbecfac
+  Twitch.Twitch.03b7fb4b9eb3ec805bbef705aa2bed60
+  Twitch.Twitch.c10a9bfe3df948c8081a4850935dad29
+  Twitch.Twitch.7f25facfb5f6fc33ce65e824c69f4bfc
+  C:\Users\Guest\AppData\Local\Temp\Twitch\1\Twitch.exe
+  Twitch.Twitch.4b113e70aefe0ec9ed184bdbfe13bb62
+  Twitch.Twitch.70e647b6a97ba9ba35f2a7927e280242
+  Twitch.Twitch.bf222ef4516f46cda1c0cc134694fe03
+  Twitch.Twitch.570013b1ff5d14eb1e6762e8b123d4db
+  Twitch.Twitch.516ed3f74fef2bc5898d71d5512cadd6
+  Twitch.Twitch.54631883292770d6542375e845da504b
+  Twitch.Twitch.40159fdbba50a3556d3aea958a50a761
+  Twitch.Twitch.a4e00ffd19363bd3a404472c4f185000
+  Twitch.Twitch.682431b0ad68aebde559d871017627bd
+  Twitch.Twitch.290e4e07dad482768363a694bfd59903
+  Twitch.Twitch.c82a83bc29eb6315ee6a232b540c37c9
+  Twitch.Twitch.7dd8201e157c3b7e486ad0641385fdd8
+  Twitch.Twitch.e1dee39e9413e7d0d1cacace03a1298a
+  Twitch.Twitch.76cc91a1c0c6157da48b71df077bc369
+  Twitch.Twitch.930747e3b7e13dc60f4e9260adb29a35
+  Twitch.Twitch.3cc44fe5e4e08eaf81e05ea9cef74d80
+  Twitch.Twitch.6b6f1a6a5b14dbb9382bd863a0fd12e5
+  Microsoft.AutoGenerated.{39AE44CC-58FF-BB0D-F292-6725D015B289}
+  Twitch.Twitch.7d729b88c68c1a20724bdd826b1d22e0
+  Twitch.Twitch.1db966cca80f7a701399ec39be2830ea
+  Twitch.Twitch.a8bbeef7d55ac4de6acb6e067a74acad
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\GUME55F.tmp\BraveUpdate.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\BraveSoftware\Update\BraveUpdate.exe
+  Brave
+  Twitch.Twitch.550148a691831a87a2a843d85843a678
+  Twitch.Twitch.7691b4a2cafec41f6d460c024a1e20bc
+  Twitch.Twitch.7ba40c5c9e0a20ee892633fd1f2a7ea3
+  Twitch.Twitch.134ab5dba7f09d1373911c6f9903c964
+  Twitch.Twitch.204ca61a194f04e6b4fd7931afea089e
+  Twitch.Twitch.dd4733f1990e7567a14dc9360aea98a3
+  Twitch.Twitch.d889071b014d0be2b04712f39466c4a8
+  Twitch.Twitch.db74b4febb590ba5891de93175f63e71
+  Twitch.Twitch.fe0cb2645cdca195394b20063bf41a28
+  Twitch.Twitch.a694527baa49a5df29e09fb6459c7332
+  Twitch.Twitch.59360dfc5bf0d12b4b8ca8044a7090ac
+  Twitch.Twitch.da7997b65e019d3b7d16d961dec09550
+  Twitch.Twitch.8557a9051a1613d8edfd06671ec9b961
+  C:\Users\Guest\AppData\Local\Temp\7zSA025.tmp\BlueStacksInstaller.exe
+  Twitch.Twitch.d8212c66a717343466db9207440a6b92
+  Twitch.Twitch.8159fcf61f0085e855df4a8afa1d320b
+  Twitch.Twitch.297ed88d5c573eb51012ddc2b733c5a7
+  Twitch.Twitch.35116582a0d79ac48259b4e92c360354
+  Twitch.Twitch.1ef5559f20601254b3567ea2e3ef9fd5
+  Twitch.Twitch.b9ad0ba9bce9523f40f06b490d2d84a6
+  Twitch.Twitch.598030b4291d32e6732c340bfd8e4d22
+  Twitch.Twitch.4e82b3e9d5dd5f48894eb8521526f87f
+  Twitch.Twitch.50944bf55ce190d775c12aed482c1195
+  Twitch.Twitch.90aa6f52882be1031d878731149b091e
+  Twitch.Twitch.4af67a5ba5d947c5177330801290336d
+  Twitch.Twitch.d1e01e394f3f07bb0536cd8c3102f58a
+  Twitch.Twitch.e965e44e91f22d2de81607961a96935c
+  Twitch.Twitch.e7aa2d0f9a3f7ef41821e33322c20e19
+  Twitch.Twitch.be399c74d2910765c23a4a600c6dc7bc
+  Twitch.Twitch.d7748a012d9655c7afc5a754decf1ac4
+  C:\Users\Guest\AppData\Local\Temp\7zS52F8\HPDiagnosticCoreUI.exe
+  C:\Users\Guest\AppData\Local\Temp\7zS52F8\HPPSdr.exe
+  C:\Users\computadora\AppData\Local\Temp\7zS5400\HPDiagnosticCoreUI.exe
+  Twitch.Twitch.7723c1a32254c82f3b3b342f9edd6cf8
+  Twitch.Twitch.d0022399bbcb1cc80f82e8df129b34e9
+  Twitch.Twitch.eca58fb84dc05681a5e403060bbfb33d
+  Twitch.Twitch.cc562cdf8a74db7a43cc5c7ae1b2efe5
+  Twitch.Twitch.bc9f1308e958e5ea4bc07462435935eb
+  Twitch.Twitch.c5d533484384173ff9d018c6cd0fa63e
+  Twitch.Twitch.5a637db8d3f1218191d56529a6500444
+  Twitch.Twitch.0547e445acfbcaba1196d339fb608eb1
+  Twitch.Twitch.8570d85169cde85327b79d53f5161f35
+  Twitch.Twitch.0d60a7db920bc9ec1ca71ffdb1defe5e
+  Twitch.Twitch.cf1bb92255523b6fa408d9dfb2053c74
+  Twitch.Twitch.d1aa1e326cb0faddfef7ca4e55079910
+  Twitch.Twitch.1ec85e23e7c3bfcc3c1c811eea662299
+  Microsoft.AutoGenerated.{29A738E8-A763-E220-FD18-F464A0971CF9}
+  Twitch.Twitch.45e992dc8f9bcf877447c8198baa1f0d
+  Twitch.Twitch.f1a773d5e7dad0ab1a8d683c9234e02d
+  Twitch.Twitch.4f9c03a090b7f8479fefbaf1dd8d8fce
+  Twitch.Twitch.665ebe4145b65b6d889366d684ad6f87
+  Twitch.Twitch.a3800402c8762e0807f21e169dec0ba8
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\igfxcfg.exe
+  Twitch.Twitch.76f312608e1cad66c0deaa44a3bfb4bb
+  Twitch.Twitch.3e47358db1ce5adad085f2d81a0220fe
+  Twitch.Twitch.119741f8a5058ff65963604988b6de37
+  Twitch.Twitch.78ccfc3a6ddaa33864975f0137488bc9
+  Microsoft.AutoGenerated.{62EAE435-D0A5-91C4-B568-B3A63D1A5AD7}
+  Microsoft.AutoGenerated.{1B6520DF-7ED4-DCDE-63FB-63FC3D9A88BF}
+  Twitch.Twitch.6c1a5e6aff8ff8b73864378a7ed0bc66
+  C:\Users\Guest\AppData\Local\Temp\7zS2E3D\FileExtractor.exe
+  C:\Users\Guest\AppData\Local\Temp\7zS2E0C\HPDiagnosticCoreUI.exe
+  Twitch.Twitch.d2520044f72570c330c68445a2e70b6f
+  Twitch.Twitch.ee2187ddeea5f72d89555d48e89d25a4
+  Twitch.Twitch.d50b60b76e0a1d192c011e8fa2e97647
+  Twitch.Twitch.7688c6d1edcb416b87b1320de183710b
+  Microsoft.AutoGenerated.{1D01287D-FD94-0690-5FE2-580FAC6F092D}
+  Twitch.Twitch.d34e895e946c99813bb360bde480a406
+  Twitch.Twitch.a072d6aeececef2bd5d266ed426dee4d
+  Twitch.Twitch.2ac1ac002246b19f82af259b66ed6d23
+  Twitch.Twitch.8f565afa58e99610d2e31901f2932f1d
+  Twitch.Twitch.7b76be5d1d693a633d2315b5dd09c2f1
+  Twitch.Twitch.e83aba86b669036ae61ba7ba2c32c617
+  Twitch.Twitch.18700275eb54d68abafad954f4ebc3b7
+  Twitch.Twitch.9c1d1a33f66c0efb14bb98e03869e256
+  Twitch.Twitch.a2cc0695c5d8e45f48e2299e9fc71242
+  Twitch.Twitch.4d58643ac951dfe52181c40221aa59db
+  Twitch.Twitch.3fb2cc7f3bddd25c5f7309e1fd68a7b6
+  Twitch.Twitch.639ec926bb02b91726d52f3021893824
+  Twitch.Twitch.b4f97a0fff1dfac78a0ae35c95a32392
+  Twitch.Twitch.6efce6cb16730325cf0c26b6b21584c4
+  Twitch.Twitch.458ff3bbefb0c0488ad3a16cf5684777
+  Twitch.Twitch.61222fe914ce63dc8ec97ea33f814a2f
+  Twitch.Twitch.adb2f5cf121c3db7f13e3daa1acd6b71
+  Twitch.Twitch.dc4edffb391a4500bb4fe15a427d3b30
+  Twitch.Twitch.c095e9b3a4366a4f0d54254a7347ecf4
+  Twitch.Twitch.20403dd49db6118b8ee0f1b0c5ef707c
+  Twitch.Twitch.cd1e3fb5adcbaf76fe8690e3fbb9edb5
+  Twitch.Twitch.26a5e3e40be6fdb02c06d699f412ea80
+  Twitch.Twitch.07a83c0089304a7b8b0e052641d9d67f
+  Twitch.DesktopApp
+  Twitch.Twitch.1ae7871e88838e7dbde9172a48ce395f
+  Twitch.Twitch.bdf86bcc3e73fa26f7a266f17d4ab844
+  Twitch.Twitch.4a8d82ca32b01cae2e2bf398873e0c7f
+  electron.app.Twitch
+
+
+Software\Nico Mak Computing\WinZip not found.
+----------------------------------------
+wordwheelquery v.20200823
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery
+LastWrite Time 2020-05-05 21:58:18Z
+
+Searches listed in MRUListEx order
+
+3    twich                         
+5    G                             
+4    PROBA                         
+2    rd                            
+1    RPP                           
+0    zombie paint                  
+----------------------------------------
